@@ -4,11 +4,25 @@
     --red: rgb(255,0,0);
     --mcy: rgb(251,208,0);
     --mcg: rgb(67,176,71);
+    --mclb: rgb(9,181,212);
+    
 }
 
 /* Background settings */
 body {
     background-color: var(--mcb);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.kr-title {
+    text-align: center;
+    font-size: 35px;
+    display: block;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--red);
+    text-shadow: var(--mcy) 1px 1px 2px, 0 0 25px var(--mcg), 0 0 5px var(--mclb);
 }
 
 /* For desktop, tablets, and anything bigger than 768px */
