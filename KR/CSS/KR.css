@@ -5,6 +5,7 @@
     --mcy: rgb(251,208,0);
     --mcg: rgb(67,176,71);
     --mclb: rgb(9,181,212);
+    --bsb: rgba(0, 0, 0, 0.397);
     
 }
 
@@ -29,6 +30,10 @@ body {
     margin-left: auto;
     margin-right: auto;
     display: block;
+}
+
+.box-shadow {
+    box-shadow: 2px 8px 16px 2px var(--bsb);
 }
 
 /* Responsive Menu Settings */
