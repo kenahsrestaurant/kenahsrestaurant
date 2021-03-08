@@ -6,6 +6,7 @@
     --mcg: rgb(67,176,71);
     --mclb: rgb(9,181,212);
     --bsb: rgba(0, 0, 0, 0.397);
+    --purple: rgb(128,0,128);
     
 }
 
@@ -35,6 +36,28 @@ body {
     margin-right: auto;
     color: var(--red);
     background-color: var(--mcy);
+}
+
+.krt-3 {
+    text-align: center;
+    font-size: 45px;
+    display: block;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--mcy);
+    background-color: var(--purple);
+}
+
+.krt-4 {
+    text-align: center;
+    font-size: 45px;
+    display: block;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--mcg);
+    background-color: var(--bsb);
 }
 
 .display {
