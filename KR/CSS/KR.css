@@ -36,7 +36,7 @@ body {
     margin-right: auto;
     color: var(--red);
     background-color: var(--mcy);
-    border-radius: 0.5px;
+    border-radius: 5px;
 }
 
 .krt-3 {
@@ -48,7 +48,7 @@ body {
     margin-right: auto;
     color: var(--mcy);
     background-color: var(--purple);
-    border-radius: 0.5px;
+    border-radius: 5px;
 }
 
 .krt-4 {
@@ -60,7 +60,7 @@ body {
     margin-right: auto;
     color: var(--mcg);
     background-color: var(--bsb);
-    border-radius: 0.5px;
+    border-radius: 5px;
 }
 
 .display {
