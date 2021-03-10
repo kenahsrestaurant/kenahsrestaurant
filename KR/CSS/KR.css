@@ -7,12 +7,16 @@
     --mclb: rgb(9,181,212);
     --bsb: rgba(0, 0, 0, 0.397);
     --purple: rgb(128,0,128);
-    
+    --ccblue: #1383D9;
+    --ccred: #D82613;
+    --ccyellow: #D8AA13;
+    --ccgreen: #13D8AA;
+    --ccpurple: #9014D9;
 }
 
 /* Background settings */
 body {
-    background-color: var(--mcb);
+    background-color: var(--ccblue);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -23,8 +27,8 @@ body {
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
-    color: var(--red);
-    text-shadow: var(--mcy) 1px 1px 2px, 0 0 25px var(--mcg), 0 0 5px var(--mclb);
+    color: var(--ccred);
+    text-shadow: var(--ccyellow) 1px 1px 2px, 0 0 25px var(--ccgreen), 0 0 5px var(--mclb);
 }
 
 .krt-2 {
@@ -34,8 +38,8 @@ body {
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
-    color: var(--red);
-    background-color: var(--mcy);
+    color: var(--ccred);
+    background-color: var(--ccyellow);
     border-radius: 5px;
 }
 
@@ -46,8 +50,8 @@ body {
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
-    color: var(--mcy);
-    background-color: var(--purple);
+    color: var(--ccyellow);
+    background-color: var(--ccpurple);
     border-radius: 5px;
 }
 
@@ -58,7 +62,7 @@ body {
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
-    color: var(--mcg);
+    color: var(--ccyellow);
     background-color: var(--bsb);
     border-radius: 5px;
 }
@@ -87,7 +91,7 @@ body {
 .topnav a {
     float: left;
     display:block;
-    color: var(--mcy);
+    color: var(--ccyellow);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -97,8 +101,8 @@ body {
 
 .topnav a:hover {
     background-color: none;
-    color: var(--red);
-    background-image: linear-gradient(transparent calc(100% - 2px), var(--red) 1px);
+    color: var(--ccred);
+    background-image: linear-gradient(transparent calc(100% - 2px), var(--ccred) 1px);
     text-decoration: none;
     background-size: 100% 100%;
     background-position: 100%;
@@ -109,7 +113,7 @@ body {
 
 .topnav a.active {
     background-color: none;
-    color: var(--mcy);
+    color: var(--ccyellow);
 }
 
 .topnav .icon {
