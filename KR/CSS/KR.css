@@ -12,12 +12,14 @@
     --ccyellow: #D8AA13;
     --ccgreen: #13D8AA;
     --ccpurple: #9014D9;
+    --ccorbr: #D86813;
 }
 
 /* Background settings */
 body {
     background-color: var(--ccblue);
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    /*font-family:Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: Roboto, Geneva, Tahoma, sans-serif;
 }
 
 .kr-title {
@@ -33,7 +35,7 @@ body {
 
 .krt-2 {
     text-align: center;
-    font-size: 45px;
+    font-size: 40px;
     display: block;
     font-weight: bold;
     margin-left: auto;
@@ -45,7 +47,7 @@ body {
 
 .krt-3 {
     text-align: center;
-    font-size: 45px;
+    font-size: 40px;
     display: block;
     font-weight: bold;
     margin-left: auto;
@@ -57,12 +59,12 @@ body {
 
 .krt-4 {
     text-align: center;
-    font-size: 45px;
+    font-size: 40px;
     display: block;
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
-    color: var(--ccyellow);
+    color: var(--ccgreen);
     background-color: var(--bsb);
     border-radius: 5px;
 }
@@ -101,8 +103,8 @@ body {
 
 .topnav a:hover {
     background-color: none;
-    color: var(--ccred);
-    background-image: linear-gradient(transparent calc(100% - 2px), var(--ccred) 1px);
+    color: var(--ccorbr);
+    background-image: linear-gradient(transparent calc(100% - 2px), var(--ccorbr) 1px);
     text-decoration: none;
     background-size: 100% 100%;
     background-position: 100%;
