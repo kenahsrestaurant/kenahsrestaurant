@@ -69,6 +69,18 @@ body {
     border-radius: 5px;
 }
 
+.krt-5 {
+    text-align: center;
+    font-size: 35px;
+    display: block;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--ccgreen);
+    background-color: var(--bsb);
+    border-radius: 5px;
+}
+
 .display {
     margin-left: auto;
     margin-right: auto;
