@@ -239,20 +239,33 @@ body {
 
 .w3-padding-64 {
     padding-top:64px!important;
-    padding-bottom:64px!important
+    padding-bottom:64px!important;
 }
 
 .w3-xlarge {
-    font-size:24px!important
+    font-size:24px!important;
 }
 
 .w3-xxlarge {
-    font-size:36px!important
+    font-size:36px!important;
 }
 
 .w3-xxxlarge {
-    font-size:48px!important
+    font-size:48px!important;
 }
 .w3-jumbo {
-    font-size:64px!important
+    font-size:64px!important;
+}
+
+.w3-content,.w3-auto {
+    margin-left:auto;
+    margin-right:auto
+}
+
+.w3-content {
+    max-width:980px
+}
+
+.w3-auto {
+    max-width:1140px
 }
