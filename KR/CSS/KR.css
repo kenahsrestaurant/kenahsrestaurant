@@ -231,3 +231,28 @@ body {
     margin-top:16px;
     margin-bottom:16px
 }
+
+.w3-black,.w3-hover-black:hover {
+    color:#fff!important;
+    background-color:#000!important
+}
+
+.w3-padding-64 {
+    padding-top:64px!important;
+    padding-bottom:64px!important
+}
+
+.w3-xlarge {
+    font-size:24px!important
+}
+
+.w3-xxlarge {
+    font-size:36px!important
+}
+
+.w3-xxxlarge {
+    font-size:48px!important
+}
+.w3-jumbo {
+    font-size:64px!important
+}
