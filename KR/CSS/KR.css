@@ -353,3 +353,8 @@ menu {
 .w3-text-grey,.w3-hover-text-grey:hover,.w3-text-gray,.w3-hover-text-gray:hover {
     color:#757575!important;
 }
+
+.w3-grey,.w3-hover-grey:hover,.w3-gray,.w3-hover-gray:hover {
+    color:#000!important;
+    background-color:#9e9e9e!important;
+}
