@@ -319,6 +319,10 @@ body {
     background-color:#f44336!important;
 }
 
+.menu {
+    display: none;
+}
+
 menu {
     display: block;
 }
