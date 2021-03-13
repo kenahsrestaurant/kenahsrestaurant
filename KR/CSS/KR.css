@@ -215,7 +215,23 @@ body {
     }
 }
 
+.kr-menu {
+    content:"";
+    display:table;
+    clear:both;
+    color: var(--ccgreen);
+    background-color: var(--bsb);
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 30px;
+}
 
+.menu-display {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
 
 /* W3 Menu Settings */
 .w3-container:after,.w3-container:before,.w3-panel:after,.w3-panel:before,.w3-row:after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,
