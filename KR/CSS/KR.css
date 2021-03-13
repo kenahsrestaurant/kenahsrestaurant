@@ -332,3 +332,24 @@ menu {
     color:#000!important;
     background-color:#fff!important;
 }
+
+.w3-right {
+    float:right!important;
+}
+
+.w3-tag {
+    background-color:#000;
+    color:#fff;
+    display:inline-block;
+    padding-left:8px;
+    padding-right:8px;
+    text-align:center;
+}
+
+.w3-round,.w3-round-medium {
+    border-radius:4px;
+}
+
+.w3-text-grey,.w3-hover-text-grey:hover,.w3-text-gray,.w3-hover-text-gray:hover {
+    color:#757575!important;
+}
