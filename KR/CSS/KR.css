@@ -96,6 +96,7 @@ body {
 .w3m {
     background-color: var(--bsb);
     color: var(--ccgreen);
+    text-align: center;
 }
 
 /* Responsive Menu Settings */
