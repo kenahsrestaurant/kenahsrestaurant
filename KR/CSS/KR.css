@@ -97,6 +97,9 @@ body {
     background-color: var(--bsb);
     color: var(--ccgreen);
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 /* Responsive Menu Settings */
