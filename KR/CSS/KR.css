@@ -102,6 +102,12 @@ body {
     display: block;
 }
 
+.w3m a {
+    text-decoration: none;
+    background-color: var(--ccblue);
+    color: var(--bsb);
+}
+
 /* Responsive Menu Settings */
 .topnav {
     overflow: hidden;
