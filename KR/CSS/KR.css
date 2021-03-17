@@ -92,6 +92,12 @@ body {
     box-shadow: 2px 8px 16px 2px var(--bsb);
 }
 
+/*w3 menu link settings*/
+.w3m {
+    background-color: var(--bsb);
+    color: var(--ccgreen);
+}
+
 /* Responsive Menu Settings */
 .topnav {
     overflow: hidden;
