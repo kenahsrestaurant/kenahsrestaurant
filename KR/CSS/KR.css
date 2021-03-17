@@ -94,7 +94,7 @@ body {
 
 /*w3 menu link settings*/
 .w3m {
-    background-color: var(--bsb);
+    background-color: none;
     color: var(--ccgreen);
     text-align: center;
     margin-left: auto;
