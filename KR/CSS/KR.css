@@ -104,8 +104,8 @@ body {
 
 .w3m a {
     text-decoration: none;
-    background-color: var(--ccblue);
     color: var(--ccyellow);
+    overflow: hidden;
 }
 
 .w3m a:hover {
