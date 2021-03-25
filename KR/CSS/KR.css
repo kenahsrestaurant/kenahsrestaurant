@@ -318,8 +318,8 @@ body {
 }
 
 .w3-padding-64 {
-    padding-top:64px!important;
-    padding-bottom:64px!important;
+    padding-top:60px!important;
+    padding-bottom:60px!important;
 }
 
 .w3-xlarge {
@@ -389,7 +389,7 @@ body {
 }
 
 .w3-padding-large {
-    padding:12px 24px!important;
+    padding:10px 20px!important;
 }
 
 .w3-red,.w3-hover-red:hover {
