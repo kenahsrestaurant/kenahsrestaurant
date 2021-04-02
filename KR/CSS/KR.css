@@ -202,7 +202,7 @@ body {
 .topnav a {
     float: left;
     display:block;
-    color: var(--ccyellow);
+    color: var(--White);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -212,8 +212,8 @@ body {
 
 .topnav a:hover {
     background-color: none;
-    color: var(--bsb);
-    background-image: linear-gradient(transparent calc(100% - 2px), var(--bsb) 1px);
+    color: var(--White);
+    background-image: linear-gradient(transparent calc(100% - 2px), var(--White) 1px);
     text-decoration: none;
     background-size: 100% 100%;
     background-position: 100%;
@@ -224,7 +224,7 @@ body {
 
 .topnav a.active {
     background-color: none;
-    color: var(--ccyellow);
+    color: var(--White);
 }
 
 .topnav .icon {
@@ -336,7 +336,8 @@ body {
 .w3-cell-row:before,.w3-cell-row:after,.w3-clear:after,.w3-clear:before,.w3-bar:before,.w3-bar:after {
     content:"";
     display:table;
-    clear:both
+    clear:both;
+    text-decoration: none;
 }
 
 .w3-container,.w3-panel {
