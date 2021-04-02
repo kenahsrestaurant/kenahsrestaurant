@@ -29,6 +29,7 @@ body {
     position: fixed;
     background-color: var(--ccpurple);
     border-radius: 5px;
+    padding: 1px;
 }
 
 .bar1, .bar2, .bar3 {
