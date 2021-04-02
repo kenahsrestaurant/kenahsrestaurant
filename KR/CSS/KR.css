@@ -66,6 +66,7 @@ body {
     background:var(--White);
     overflow-x: hidden;
     padding: 8px 0;
+    border-radius: 8px;
 }
 
 .sidenav a {
