@@ -26,6 +26,7 @@ body {
 .container-fixed-menu {
     display:inline-block;
     cursor:pointer;
+    position: fixed;
 }
 
 .bar1, .bar2, .bar3 {
