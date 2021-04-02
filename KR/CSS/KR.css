@@ -65,7 +65,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     color: var(--ccred);
-    text-shadow: var(--ccyellow) 1px 1px 2px, 0 0 25px var(--ccgreen), 0 0 5px var(--mclb);
+    text-shadow: var(--White) 2px 2px 3px,;
 }
 
 .krt-2 {
