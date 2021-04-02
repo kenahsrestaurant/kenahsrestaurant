@@ -59,7 +59,7 @@ body {
 }
 
 .sidenav {
-    width: 130px;
+    width: 140px;
     position:fixed;
     z-index: 1;
     left:12px;
@@ -81,7 +81,7 @@ body {
 }
 
 .main-fixed-menu {
-    margin-left:160px;
+    margin-left:140px;
     font-size:25px;
     padding:0px 10px;
 }
