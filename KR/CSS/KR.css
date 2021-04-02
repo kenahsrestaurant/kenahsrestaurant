@@ -13,6 +13,7 @@
     --ccgreen: #13D8AA;
     --ccpurple: #9014D9;
     --ccorbr: #D86813;
+    --White:rgb(255,255,255);
 }
 
 /* Background settings */
@@ -27,9 +28,9 @@ body {
     display:inline-block;
     cursor:pointer;
     position: fixed;
-    background-color: var(--ccpurple);
-    border-radius: 5px;
-    padding: 1px;
+    background-color: var(--White);
+    border-radius: 8px;
+    padding: 5px;
 }
 
 .bar1, .bar2, .bar3 {
