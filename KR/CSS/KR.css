@@ -15,11 +15,12 @@
     --ccorbr: #D86813;
     --White:rgb(255,255,255);
     --Black:rgb(0,0,0);
+    --SpanishBlue:#076FBE;
 }
 
 /* Background settings */
 body {
-    background-color: var(--ccblue);
+    background-color: var(--SpanishBlue);
     /*font-family:Verdana, Geneva, Tahoma, sans-serif; */
     font-family: Roboto, Geneva, Tahoma, sans-serif;
 }
