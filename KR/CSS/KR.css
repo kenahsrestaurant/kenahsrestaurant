@@ -16,6 +16,7 @@
     --White:rgb(255,255,255);
     --Black:rgb(0,0,0);
     --SpanishBlue:#076FBE;
+    --IntOrangeEng:#BB1806;
 }
 
 /* Background settings */
@@ -64,7 +65,7 @@ body {
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
-    color: var(--ccred);
+    color: var(--IntOrangeEng);
     text-shadow: var(--White) 2px 2px 3px,;
 }
 
