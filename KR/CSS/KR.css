@@ -412,7 +412,6 @@ body {
     background-color: var(--purple);
     color: var(--White);
     font-size:23px;
-    display:inline-block;
     padding: 5px;
 }
 
