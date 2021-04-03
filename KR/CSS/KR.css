@@ -374,6 +374,30 @@ body {
     height: auto;
 }
 
+/* New Menu Settings */
+.new-menu {
+    content:"";
+    display:table;
+    clear:both;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.new-menu-display {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    display: block;
+}
+
+.new-menu-title {
+    background-color: var(--ccorbr);
+    color:var(--mcb);
+    font-size: 25px;
+
+}
+
 /* W3 Menu Settings */
 .w3-container:after,.w3-container:before,.w3-panel:after,.w3-panel:before,.w3-row:after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,
 .w3-cell-row:before,.w3-cell-row:after,.w3-clear:after,.w3-clear:before,.w3-bar:before,.w3-bar:after {
