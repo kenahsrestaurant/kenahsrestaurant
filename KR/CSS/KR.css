@@ -381,6 +381,7 @@ body {
     clear:both;
     border-radius: 5px;
     padding: 5px;
+    background-color: var(--bsb);
 }
 
 .new-menu-display {
@@ -393,9 +394,9 @@ body {
 
 .new-menu-title {
     background-color: var(--ccorbr);
-    color:var(--mcb);
+    color:var(--purple);
     font-size: 25px;
-
+    border-radius: 5px;
 }
 
 /* W3 Menu Settings */
