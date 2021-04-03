@@ -412,6 +412,10 @@ body {
     background-color: var(--purple);
     color: var(--White);
     font-size:23px;
+    content:"";
+    display:table;
+    clear:both;
+    padding: 5px;
 }
 
 .new-menu-options a {
