@@ -410,8 +410,8 @@ body {
 .new-menu-options-types, .new-menu-options-types:hover {
     text-decoration: none;
     background-color: var(--purple);
-    color: var(--ccorbr);
-    font-size:20px;
+    color: var(--White);
+    font-size:23px;
 }
 
 .new-menu-options a {
