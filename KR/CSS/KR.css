@@ -426,6 +426,8 @@ body {
     height: auto;
     margin-left: auto;
     margin-right: auto;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .new-menu-text {
@@ -433,6 +435,7 @@ body {
     text-align: center;
     font-size: 24px;
     font-weight: bold;
+    text-indent: var(--Black) 1px 1px;
 }
 
 
