@@ -420,6 +420,11 @@ body {
     text-decoration: none;
 }
 
+.m-sticks {
+    background-image: url("/KR/IMG/mozz-sticks-resize-7.jpg");
+    opacity: 0.6;
+}
+
 
 /* W3 Menu Settings */
 .w3-container:after,.w3-container:before,.w3-panel:after,.w3-panel:before,.w3-row:after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,
