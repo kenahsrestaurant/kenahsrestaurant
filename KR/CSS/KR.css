@@ -420,6 +420,12 @@ body {
     text-decoration: none;
 }
 
+.new-menu-container {
+    position: relative;
+    text-align: center;
+    color: var(--Black);
+}
+
 .m-sticks {
     background-image: url("/KR/IMG/mozz-sticks-resize-7.jpg");
     opacity: 0.6;
