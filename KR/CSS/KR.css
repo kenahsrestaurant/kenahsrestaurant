@@ -432,7 +432,7 @@ body {
 }
 
 .new-menu-text {
-    color: var(--White);
+    color: var(--Black);
     text-align: center;
     font-size: 24px;
     font-weight: bold;
