@@ -423,6 +423,16 @@ body {
 .m-sticks {
     background-image: url("/KR/IMG/mozz-sticks-resize-7.jpg");
     opacity: 0.6;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.new-menu-text {
+    color: var(--White);
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 
