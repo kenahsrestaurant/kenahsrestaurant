@@ -21,7 +21,7 @@
 
 /* Background settings */
 body {
-    background-color: var(--SpanishBlue);
+    background-color: var(--White);
     /*font-family:Verdana, Geneva, Tahoma, sans-serif; */
     font-family: Roboto, Geneva, Tahoma, sans-serif;
 }
@@ -110,6 +110,7 @@ body {
     margin-right: auto;
     color: var(--IntOrangeEng);
     text-shadow: var(--White) 1px 1px 2px;
+    background-color: var(--SpanishBlue);
 }
 
 .krt-2 {
@@ -236,7 +237,7 @@ body {
 /* Responsive Menu Settings */
 .topnav {
     overflow: hidden;
-    background-color: none;
+    background-color: var(--SpanishBlue);
     top: 0;
     width: 100%;
     position: absolute;
