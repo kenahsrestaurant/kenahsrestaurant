@@ -17,6 +17,7 @@
     --Black:rgb(0,0,0);
     --SpanishBlue:#076FBE;
     --IntOrangeEng:#BB1806;
+    --KRYellow:#f5df4d;
 }
 
 /* Background settings */
@@ -109,7 +110,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     color: var(--IntOrangeEng);
-    text-shadow: var(--White) 1px 1px 2px;
+    text-shadow: var(--KRYellow) 1px 1px 2px;
     background-color: var(--SpanishBlue);
     border-radius: 5px;
     box-shadow: var(--bsb);
@@ -249,7 +250,7 @@ body {
 .topnav a {
     float: left;
     display:block;
-    color: var(--White);
+    color: var(--KRYellow);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -260,8 +261,8 @@ body {
 
 .topnav a:hover {
     background-color: none;
-    color: var(--White);
-    background-image: linear-gradient(transparent calc(100% - 2px), var(--White) 1px);
+    color: var(--KRYellow);
+    background-image: linear-gradient(transparent calc(100% - 2px), var(--KRYellow) 1px);
     text-decoration: none;
     background-size: 100% 100%;
     background-position: 100%;
