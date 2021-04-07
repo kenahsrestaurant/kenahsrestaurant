@@ -118,8 +118,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     color: var(--GoogleRed);
-    text-shadow: var(--GoogleYellow) 2px 2px 3px, 0 0 5px var(--GoogleBlue), 0 0 10px var(--JBGrey);
-    background-color: none;
+    text-shadow: var(--GoogleYellow) 2px 2px 3px, 0 0 5px var(--GoogleGreen), 0 0 10px var(--JBGrey);
+    background-color: var(--GoogleBlue);
     border-radius: 5px;
     box-shadow: var(--bsb);
 }
