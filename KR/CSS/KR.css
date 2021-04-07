@@ -413,8 +413,8 @@ body {
 }
 
 .new-menu-title {
-    background-color: var(--ccorbr);
-    color:var(--purple);
+    background-color: var(--NewKRYellow);
+    color:var(--NewKRBlue);
     font-size: 25px;
     border-radius: 5px;
 }
@@ -429,7 +429,7 @@ body {
 
 .new-menu-options-types, .new-menu-options-types:hover {
     text-decoration: none;
-    background-color: var(--purple);
+    background-color: var(--NewKRRed);
     color: var(--White);
     font-size:23px;
     display:inline-block;
