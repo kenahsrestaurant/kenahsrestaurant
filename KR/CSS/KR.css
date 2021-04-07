@@ -23,11 +23,14 @@
     --KRGreen:#63F54D;
     --JBGrey:rgb(133,137,138);
     --GoogleRed:#ea4335;
+    --GoogleGreen:#34a853;
+    --GoogleYellow:#fbbc05;
+    --GoogleBlue:#4285F4;
 }
 
 /* Background settings */
 body {
-    background-color: var(--KRGreen);
+    background-color: var(--GoogleGreen);
     /*font-family:Verdana, Geneva, Tahoma, sans-serif; */
     font-family: Roboto, Geneva, Tahoma, sans-serif;
 }
@@ -114,8 +117,8 @@ body {
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
-    color: var(--KRRed);
-    text-shadow: var(--KRYellow) 2px 2px 3px, 0 0 5px var(--KRBlue), 0 0 10px var(--JBGrey);
+    color: var(--GoogleRed);
+    text-shadow: var(--GoogleYellow) 2px 2px 3px, 0 0 5px var(--GoogleBlue), 0 0 10px var(--JBGrey);
     background-color: none;
     border-radius: 5px;
     box-shadow: var(--bsb);
@@ -128,9 +131,10 @@ body {
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
-    color: var(--KRRed);
-    background-color: var(--KRYellow);
+    color: var(--GoogleYellow);
+    background-color: var(--GoogleBlue);
     border-radius: 5px;
+    padding: 5px 5px;
 }
 
 .krt-3 {
