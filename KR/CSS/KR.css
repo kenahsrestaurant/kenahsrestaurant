@@ -121,7 +121,7 @@ body {
     text-shadow: var(--GoogleYellow) 2px 2px 3px, 0 0 5px var(--bsb), 0 0 10px var(--JBGrey);
     background-color: var(--GoogleBlue);
     border-radius: 5px;
-    box-shadow: var(--JBGrey) 5px;
+    box-shadow: var(--JBGrey) 5px 5px 5px;
 }
 
 .krt-2 {
