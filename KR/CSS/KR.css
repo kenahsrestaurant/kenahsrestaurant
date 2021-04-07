@@ -387,6 +387,15 @@ body {
     font-size: 30px;
 }
 
+.kr-red {
+    background-color: var(--NewKRRed);
+    color: var(--White);
+}
+
+.kr-new-menu {
+    display:none;
+}
+
 .menu-display {
     text-align: center;
     margin-left: auto;
@@ -423,14 +432,21 @@ body {
     content:"";
     display:inline-block;
     clear:both;
-    border-radius: 5px;
     padding: 5px;
 }
 
-.new-menu-options-types, .new-menu-options-types:hover {
+.new-menu-options-types {
     text-decoration: none;
-    background-color: var(--NewKRRed);
+    color: var(--NewKRBlue);
+    font-size:23px;
+    display:inline-block;
+    padding: 5px;
+}
+
+.new-menu-options-types:hover {
+    text-decoration: none;
     color: var(--White);
+    background-color: var(--NewKRRed);
     font-size:23px;
     display:inline-block;
     padding: 5px;

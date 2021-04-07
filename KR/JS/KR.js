@@ -42,3 +42,19 @@ function openMenu(evt, menuName) {
     evt.currentTarget.firstElementChild.className += " w3-red";
   }
   document.getElementById("myLink").click();
+
+  /* KR Menu */
+  function openKRMenu(evt, menuName) {
+    var i, x, tablinks;
+    x = document.getElementsByClassName("kr-new-menu");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("kr-tablink");
+    for (i = 0; i < x.length; i++) {
+       tablinks[i].className = tablinks[i].className.replace(" kr-red", "");
+    }
+    document.getElementById(menuName).style.display = "block";
+    evt.currentTarget.firstElementChild.className += " kr-red";
+  }
+  document.getElementById("krLink").click();
