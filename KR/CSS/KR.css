@@ -18,6 +18,7 @@
     --SpanishBlue:#076FBE;
     --IntOrangeEng:#BB1806;
     --KRYellow:#f5df4d;
+    --JBGrey:rgb(133,137,138);
 }
 
 /* Background settings */
@@ -110,7 +111,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     color: var(--SpanishBlue);
-    text-shadow: var(--KRYellow) 2px 2px 3px, 0 0 5px var(--ccred), 0 0 10px var(--bsb);
+    text-shadow: var(--KRYellow) 2px 2px 3px, 0 0 5px var(--ccred), 0 0 10px var(--JBGrey);
     background-color: var(--SpanishBlue);
     border-radius: 5px;
     box-shadow: var(--bsb);
