@@ -135,6 +135,7 @@ body {
     background-color: var(--GoogleBlue);
     border-radius: 5px;
     padding: 5px 5px;
+    text-shadow: var(--GoogleRed) 2px 2px 3px;
 }
 
 .krt-3 {
