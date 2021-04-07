@@ -112,7 +112,7 @@ body {
     margin-right: auto;
     color: var(--SpanishBlue);
     text-shadow: var(--KRYellow) 2px 2px 3px, 0 0 5px var(--ccred), 0 0 10px var(--JBGrey);
-    background-color: var(--SpanishBlue);
+    background-color: none;
     border-radius: 5px;
     box-shadow: var(--bsb);
 }
