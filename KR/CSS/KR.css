@@ -110,7 +110,7 @@ body {
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
-    color: var(--SpanishBlue);
+    color: var(--Black);
     text-shadow: var(--KRYellow) 2px 2px 3px, 0 0 5px var(--ccred), 0 0 10px var(--JBGrey);
     background-color: none;
     border-radius: 5px;
