@@ -26,11 +26,15 @@
     --GoogleGreen:#34a853;
     --GoogleYellow:#fbbc05;
     --GoogleBlue:#4285F4;
+    --NewKRTeal:#12eaea;
+    --NewKRBlue:#1111e8;
+    --NewKRRed:#e81111;
+    --NewKRYellow:#e8e811;
 }
 
 /* Background settings */
 body {
-    background-color: var(--GoogleGreen);
+    background-color: var(--NewKRTeal);
     /*font-family:Verdana, Geneva, Tahoma, sans-serif; */
     font-family: Roboto, Geneva, Tahoma, sans-serif;
 }
@@ -117,9 +121,9 @@ body {
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
-    color: var(--GoogleRed);
-    text-shadow: var(--GoogleYellow) 2px 2px 3px, 0 0 5px var(--bsb), 0 0 10px var(--JBGrey);
-    background-color: var(--GoogleBlue);
+    color: var(--NewKRRed);
+    text-shadow: var(--NewKRYellow) 2px 2px 3px, 0 0 5px var(--bsb), 0 0 10px var(--JBGrey);
+    background-color: var(--NewKRBlue);
     border-radius: 5px;
     box-shadow: var(--JBGrey) 5px 5px 5px;
 }
@@ -250,7 +254,7 @@ body {
 /* Responsive Menu Settings */
 .topnav {
     overflow: hidden;
-    background-color: var(--GoogleBlue);
+    background-color: var(--NewKRBlue);
     top: 0;
     width: 100%;
     position: absolute;
@@ -271,8 +275,8 @@ body {
 
 .topnav a:hover {
     background-color: none;
-    color: var(--GoogleYellow);
-    background-image: linear-gradient(transparent calc(100% - 2px), var(--GoogleYellow) 1px);
+    color: var(--NewKRYellow);
+    background-image: linear-gradient(transparent calc(100% - 2px), var(--NewKRYellow) 1px);
     text-decoration: none;
     background-size: 100% 100%;
     background-position: 100%;
@@ -283,7 +287,7 @@ body {
 
 .topnav a.active {
     background-color: none;
-    color: var(--GoogleYellow);
+    color: var(--NewKRYellow);
 }
 
 .topnav .icon {
