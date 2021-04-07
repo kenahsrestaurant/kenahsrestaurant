@@ -20,13 +20,14 @@
     --KRYellow:#f5df4d;
     --KRRed:#f56e4d;
     --KRBlue:#4D63F5;
+    --KRGreen:#63F54D;
     --JBGrey:rgb(133,137,138);
     --GoogleRed:#ea4335;
 }
 
 /* Background settings */
 body {
-    background-color: var(--ccgreen);
+    background-color: var(--KRGreen);
     /*font-family:Verdana, Geneva, Tahoma, sans-serif; */
     font-family: Roboto, Geneva, Tahoma, sans-serif;
 }
