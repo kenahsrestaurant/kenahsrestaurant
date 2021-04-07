@@ -109,8 +109,8 @@ body {
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
-    color: var(--IntOrangeEng);
-    text-shadow: var(--KRYellow) 2px 2px 3px;
+    color: var(--White);
+    text-shadow: var(--KRYellow) 2px 2px 3px, 0 0 5px var(--ccred), 0 0 10px var(--bsb);
     background-color: var(--SpanishBlue);
     border-radius: 5px;
     box-shadow: var(--bsb);
