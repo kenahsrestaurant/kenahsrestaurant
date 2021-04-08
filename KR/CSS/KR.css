@@ -443,7 +443,7 @@ body {
 .new-menu-options-types {
     text-decoration: none;
     color: var(--NewKRBlue);
-    font-size:23px;
+    font-size:25px;
     display:inline-block;
     padding: 5px;
     font-weight: bold;
