@@ -397,6 +397,10 @@ body {
     display:none;
 }
 
+.blue-border {
+    border: 2px solid var(--NewKRBlue);
+}
+
 .menu-display {
     text-align: center;
     margin-left: auto;
