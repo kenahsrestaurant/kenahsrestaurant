@@ -528,7 +528,7 @@ body {
 
 .price {
     text-align: center;
-    font-size: 25px;
+    font-size: 30px;
     color: var(--Black);
     display:inline-block;
     font-weight: bold;
