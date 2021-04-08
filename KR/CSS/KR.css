@@ -390,6 +390,7 @@ body {
 .kr-red {
     background-color: var(--NewKRRed);
     color: var(--White);
+    display: block;
 }
 
 .kr-new-menu {
