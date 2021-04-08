@@ -509,16 +509,35 @@ body {
 }
 
 .new-menu-text {
-    color: var(--Black);
     text-align: center;
-    font-size: 22px;
-    font-weight: bold;
-    text-indent: var(--Black) 1px 1px;
     background-color: var(--White);
     padding: 5px 5px;
     display:inline-block;
 }
 
+.new-menu-item {
+    color: var(--Black);
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    text-indent: var(--Black) 1px 1px;
+    background-color: var(--White);
+    padding: 5px 5px;
+    display: block;
+}
+
+.price {
+    text-align: center;
+    font-size: 20px;
+    color: var(--Black);
+    display:inline-block
+}
+
+.coin {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
 
 /* W3 Menu Settings */
 .w3-container:after,.w3-container:before,.w3-panel:after,.w3-panel:before,.w3-row:after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,
