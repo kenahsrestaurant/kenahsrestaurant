@@ -530,7 +530,8 @@ body {
     text-align: center;
     font-size: 20px;
     color: var(--Black);
-    display:inline-block
+    display:inline-block;
+    font-weight: bold;
 }
 
 .coin {
