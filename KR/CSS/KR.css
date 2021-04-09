@@ -499,6 +499,17 @@ body {
     transform: translate(-50%, -50%);
   }
 
+  .new-menu-width {
+      width: 33.33%;
+  }
+
+  /* Display menu */
+  @media only screen and (max-width: 500px) {
+      .new-menu-width {
+          width: 50%;
+      }
+  }
+
 .m-sticks {
     height: auto;
     margin-left: auto;
