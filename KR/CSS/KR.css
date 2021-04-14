@@ -516,7 +516,7 @@ body {
 
   @media only screen and (max-width: 800px) {
       .food-name {
-          font-size: 17px;
+          font-size: 16px;
       }
   }
 
@@ -526,7 +526,7 @@ body {
 
   @media only screen and (max-width: 800px) {
       .food-desc {
-          font-size: 16px;
+          font-size: 15px;
       }
   }
 
@@ -576,7 +576,7 @@ body {
 
 @media only screen and (max-width: 800px) {
     .coin {
-        width:15%;
+        width:17%;
     }
 }
 
