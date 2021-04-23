@@ -598,6 +598,55 @@ body {
     }
 }
 
+@media only screen and (min-width: 601px) {
+    .coin {
+        width:14%;
+    }
+}
+
+@media only screen and (min-width: 701px) {
+    .coin {
+        width:13%;
+    }
+}
+
+@media only screen and (min-width: 801px) {
+    .coin {
+        width:12%;
+    }
+}
+
+@media only screen and (min-width: 901px) {
+    .coin {
+        width:11%;
+    }
+}
+
+@media only screen and (min-width: 1001px) {
+    .coin {
+        width:10%;
+    }
+}
+
+@media only screen and (min-width: 1101px) {
+    .coin {
+        width:9%;
+    }
+}
+
+@media only screen and (min-width: 1201px) {
+    .coin {
+        width:8%;
+    }
+}
+
+@media only screen and (min-width: 1301px) {
+    .coin {
+        width:7%;
+    }
+}
+
+
 /* W3 Menu Settings */
 .w3-container:after,.w3-container:before,.w3-panel:after,.w3-panel:before,.w3-row:after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,
 .w3-cell-row:before,.w3-cell-row:after,.w3-clear:after,.w3-clear:before,.w3-bar:before,.w3-bar:after {
