@@ -586,9 +586,9 @@ body {
     width: 10%;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (min-width: 401px) {
     .coin {
-        width:17%;
+        width:16%;
     }
 }
 
@@ -643,6 +643,12 @@ body {
 @media only screen and (min-width: 1301px) {
     .coin {
         width:7%;
+    }
+}
+
+@media only screen and (min-width: 1401px) {
+    .coin {
+        width:6%;
     }
 }
 
