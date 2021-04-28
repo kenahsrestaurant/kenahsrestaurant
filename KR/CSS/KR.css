@@ -586,9 +586,21 @@ body {
     width: 10%;
 }
 
+@media only screen and (min-width: 351px) {
+    .coin {
+        width:16.5%;
+    }
+}
+
 @media only screen and (min-width: 401px) {
     .coin {
         width:16%;
+    }
+}
+
+@media only screen and (min-width: 451px) {
+    .coin {
+        width:15.5%;
     }
 }
 
@@ -598,9 +610,21 @@ body {
     }
 }
 
+@media only screen and (min-width: 551px) {
+    .coin {
+        width:14.5%;
+    }
+}
+
 @media only screen and (min-width: 601px) {
     .coin {
         width:14%;
+    }
+}
+
+@media only screen and (min-width: 651px) {
+    .coin {
+        width:13.5%;
     }
 }
 
@@ -610,9 +634,21 @@ body {
     }
 }
 
+@media only screen and (min-width: 751px) {
+    .coin {
+        width:12.5%;
+    }
+}
+
 @media only screen and (min-width: 801px) {
     .coin {
         width:12%;
+    }
+}
+
+@media only screen and (min-width: 851px) {
+    .coin {
+        width:11.5%;
     }
 }
 
@@ -622,9 +658,21 @@ body {
     }
 }
 
+@media only screen and (min-width: 951px) {
+    .coin {
+        width:10.5%;
+    }
+}
+
 @media only screen and (min-width: 1001px) {
     .coin {
         width:10%;
+    }
+}
+
+@media only screen and (min-width: 1051px) {
+    .coin {
+        width:9.5%;
     }
 }
 
@@ -634,9 +682,21 @@ body {
     }
 }
 
+@media only screen and (min-width: 1151px) {
+    .coin {
+        width:8.5%;
+    }
+}
+
 @media only screen and (min-width: 1201px) {
     .coin {
         width:8%;
+    }
+}
+
+@media only screen and (min-width: 1251px) {
+    .coin {
+        width:7.5%;
     }
 }
 
@@ -646,12 +706,23 @@ body {
     }
 }
 
+@media only screen and (min-width: 1351px) {
+    .coin {
+        width:6.5%;
+    }
+}
+
 @media only screen and (min-width: 1401px) {
     .coin {
         width:6%;
     }
 }
 
+@media only screen and (min-width: 1451px) {
+    .coin {
+        width:5.5%;
+    }
+}
 
 /* W3 Menu Settings */
 .w3-container:after,.w3-container:before,.w3-panel:after,.w3-panel:before,.w3-row:after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,
