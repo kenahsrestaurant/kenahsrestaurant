@@ -483,6 +483,7 @@ body {
     text-align: center;
     color: var(--Black);
     text-shadow: none;
+    border-radius: 5px;
 }
 
 .new-menu-bottom-left {
@@ -523,13 +524,13 @@ body {
   /* Display menu */
   @media only screen and (max-width: 500px) {
       .new-menu-width {
-          width: 40%;
+          width: 50%;
       }
   }
 
-  @media only screen and (min-width:501px) {
+  @media only screen and (min-width:301px) {
       .new-menu-width {
-          width: 30%;
+          width: 60%;
       }
   }
 
