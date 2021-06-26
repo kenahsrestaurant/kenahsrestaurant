@@ -444,7 +444,6 @@ body {
 .h-menu-title {
     background-color: var(--JBGrey);
     color:var(--White);
-    border-radius: 5px;
     text-shadow: var(--Black) 1px 1px;
     margin-left: auto;
     margin-right: auto;
@@ -454,17 +453,22 @@ body {
 
 .new-menu-options-types {
     text-decoration: none;
-    color: var(--NewKRBlue);
+    color: var(--White);
+    background-color: var(--JBGrey);
+    text-shadow: var(--Black) 1px 1px;
     font-size:25px;
     display:inline-block;
     padding: 5px;
     font-weight: bold;
+    border-radius: 5px;
 }
 
 .new-menu-options-types:hover {
     text-decoration: none;
     color: var(--White);
     background-color: var(--NewKRRed);
+    border-radius: 5px;
+    text-shadow: var(--Black) 1px 1px;
     font-size:25px;
     display:inline-block;
     padding: 5px;
