@@ -427,11 +427,11 @@ body {
 }
 
 .new-menu-title {
-    background-color: var(--NewKRYellow);
+    background-color: var(--JBGrey);
     color:var(--White);
     font-size: 27px;
     border-radius: 5px;
-    text-shadow:var(--Black);
+    text-shadow:var(--Black) 1px 2px;
 }
 
 .new-menu-options {
@@ -454,7 +454,7 @@ body {
 .new-menu-options-types {
     text-decoration: none;
     color: var(--White);
-    border: 2px solid var(--JBGrey);
+    border: 2px solid var(--NewKRYellow);
     text-shadow: var(--Black) 2px 1px;
     font-size:25px;
     display:inline-block;
