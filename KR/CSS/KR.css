@@ -454,8 +454,8 @@ body {
 .new-menu-options-types {
     text-decoration: none;
     color: var(--White);
-    border: 1px solid var(--JBGrey);
-    text-shadow: var(--Black) 1px 1px;
+    border: 2px solid var(--JBGrey);
+    text-shadow: var(--Black) 2px 1px;
     font-size:25px;
     display:inline-block;
     padding: 5px;
@@ -468,7 +468,7 @@ body {
     color: var(--White);
     background-color: var(--NewKRRed);
     border-radius: 5px;
-    text-shadow: var(--Black) 1px 1px;
+    text-shadow: var(--Black) 2px 2px;
     font-size:25px;
     display:inline-block;
     padding: 5px;
