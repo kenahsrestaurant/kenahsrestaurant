@@ -441,6 +441,13 @@ body {
     padding: 5px;
 }
 
+.h-menu-title {
+    background-color: var(--JBGrey);
+    color:var(--White);
+    border-radius: 5px;
+    text-shadow: var(--Black) 1px 1px;
+}
+
 .new-menu-options-types {
     text-decoration: none;
     color: var(--NewKRBlue);
