@@ -428,9 +428,10 @@ body {
 
 .new-menu-title {
     background-color: var(--NewKRYellow);
-    color:var(--NewKRBlue);
+    color:var(--White);
     font-size: 27px;
     border-radius: 5px;
+    text-shadow:var(--Black);
 }
 
 .new-menu-options {
