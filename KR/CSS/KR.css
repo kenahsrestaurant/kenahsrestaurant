@@ -522,13 +522,13 @@ body {
   }
 
   /* Display menu */
-  @media only screen and (max-width: 600px) {
+  @media only screen and (min-width: 301px) {
       .new-menu-width {
-          width: 50%;
+          width: 48%;
       }
   }
 
-  @media only screen and (max-width:301px) {
+  @media only screen and (max-width:300px) {
       .new-menu-width {
           width: 85%;
       }
