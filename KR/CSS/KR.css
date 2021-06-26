@@ -522,7 +522,13 @@ body {
   /* Display menu */
   @media only screen and (max-width: 500px) {
       .new-menu-width {
-          width: 48%;
+          width: 40%;
+      }
+  }
+
+  @media only screen and (min-width:501px) {
+      .new-menu-width {
+          width: 30%;
       }
   }
 
