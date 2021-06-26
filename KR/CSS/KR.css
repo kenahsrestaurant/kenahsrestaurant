@@ -528,7 +528,7 @@ body {
       }
   }
 
-  @media only screen and (max-width:300px) {
+  @media only screen and (min-width:100px) {
       .new-menu-width {
           width: 85%;
       }
