@@ -482,6 +482,7 @@ body {
     position: relative;
     text-align: center;
     color: var(--Black);
+    text-shadow: none;
 }
 
 .new-menu-bottom-left {
