@@ -1,3 +1,8 @@
+/* Enforce HTTPS */
+if (window.location.protocol === "http:") {
+    window.location.href = window.location.href.replace(window.location.protocol,"https:");
+ }   
+
 /* Responsive menu function */
 function Condense() {
     var x = document.getElementById("myTopnav");
