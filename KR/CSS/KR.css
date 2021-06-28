@@ -520,13 +520,13 @@ body {
 
 
   /* Display menu */
-  @media only screen and (max-width: 430px) {
+  @media only screen and (max-width: 450px) {
     .new-menu-names {
         width: 40%;
     }
 }
 
-  @media only screen and (min-width: 431px) {
+  @media only screen and (min-width: 451px) {
       .new-menu-names {
           width: 34%;
       }
@@ -539,13 +539,13 @@ body {
   }
 
 
-  @media only screen and (max-width: 430px) {
+  @media only screen and (max-width: 450px) {
     .new-menu-width {
         width: 85%;
     }
 }
 
-  @media only screen and (min-width: 431px) {
+  @media only screen and (min-width: 451px) {
       .new-menu-width {
           width: 46%;
       }
