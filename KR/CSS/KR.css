@@ -532,7 +532,7 @@ body {
       }
   }
 
-  @media only screen and (min-width: 701px) {
+  @media only screen and (min-width: 801px) {
     .new-menu-names {
         width: 32%;
     }
@@ -551,7 +551,7 @@ body {
       }
   }
 
-  @media only screen and (min-width: 701px) {
+  @media only screen and (min-width: 801px) {
     .new-menu-width {
         width: 32%;
     }
