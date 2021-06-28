@@ -520,11 +520,9 @@ body {
 
 
   /* Display menu */
-  @media only screen and (min-width:10px) {
     .new-menu-width {
         width: 85%;
     }
-}
 
   @media only screen and (min-width: 301px) {
       .new-menu-width {
