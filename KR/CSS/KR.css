@@ -601,7 +601,7 @@ body {
 .new-menu-text {
     text-align: center;
     background-color: var(--White);
-    padding: 5px 5px;
+    padding: 5px 5px 5px 5px;
     display:inline-block;
 }
 
