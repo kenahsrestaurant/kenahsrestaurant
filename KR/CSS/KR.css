@@ -520,17 +520,19 @@ body {
 
 
   /* Display menu */
+  @media only screen and (max-width: 350px) {
     .new-menu-width {
         width: 85%;
     }
+}
 
-  @media only screen and (min-width: 301px) {
+  @media only screen and (min-width: 351px) {
       .new-menu-width {
           width: 46%;
       }
   }
 
-  @media only screen and (min-width:701px) {
+  @media only screen and (min-width: 701px) {
     .new-menu-width {
         width: 32%;
     }
