@@ -522,19 +522,19 @@ body {
   /* Display menu */
   @media only screen and (max-width: 450px) {
     .new-menu-names {
-        width: 38%;
+        width: 40%;
     }
 }
 
   @media only screen and (min-width: 451px) {
       .new-menu-names {
-          width: 33%;
+          width: 35%;
       }
   }
 
   @media only screen and (min-width: 801px) {
     .new-menu-names {
-        width: 28%;
+        width: 30%;
     }
   }
 
