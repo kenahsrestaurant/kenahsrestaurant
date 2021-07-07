@@ -321,6 +321,10 @@ body {
     }
 }
 
+.logo-display {
+    border-radius: 5px;
+    height: auto;
+}
 /* For desktop, tablets, and anything bigger than 768px */
 .col-1 {
     width: 8.33%;
