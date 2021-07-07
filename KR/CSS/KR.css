@@ -327,7 +327,6 @@ body {
     border-radius: 5px;
     height: auto;
     float: left;
-    width: 20%;
 }
 
 @media screen and (max-width: 600px) {
