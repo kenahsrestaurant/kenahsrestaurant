@@ -337,7 +337,7 @@ body {
         height: auto;
         text-align: center;
         display: block;
-        width: 85%;
+        width: 65%;
     }
     .active {
         margin-left: auto;
@@ -345,7 +345,7 @@ body {
         height: auto;
         text-align: center;
         display: block;
-        font-size: 35px;    
+        font-size: 45px;    
     }
 }
 
