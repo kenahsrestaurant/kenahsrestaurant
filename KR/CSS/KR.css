@@ -290,6 +290,7 @@ body {
     background-color: none;
     color: var(--NewKRYellow);
     font-size: 14px;
+    text-align: center;
 }
 
 .topnav .icon {
