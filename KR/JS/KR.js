@@ -7,7 +7,7 @@ if (window.location.protocol === "http:") {
 function Condense() {
     var x = document.getElementById("myTopnav");
     if (x.className === "topnav") {
-        x.className += " responsive";
+        x.className += " responsive animate_animated animate_slideInDown";
     } else {
         x.className = "topnav";
     }
