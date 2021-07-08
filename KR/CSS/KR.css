@@ -263,7 +263,6 @@ body {
 }
 
 .topnav a {
-    float: left;
     display:block;
     color: var(--White);
     text-align: center;
