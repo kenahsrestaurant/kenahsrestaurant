@@ -340,6 +340,7 @@ body {
         text-align: center;
         display: block;
         width: 50%;
+        float: none;
     }
     .active {
         margin-left: auto;
