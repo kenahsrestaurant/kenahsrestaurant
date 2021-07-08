@@ -326,7 +326,7 @@ body {
     border-radius: 5px;
     height: auto;
     float: left;
-    width: 30%;
+    width: 25%;
 }
 
 @media screen and (max-width: 600px) {
@@ -336,7 +336,7 @@ body {
         height: auto;
         text-align: center;
         display: block;
-        width: 65%;
+        width: 50%;
     }
     .active {
         margin-left: auto;
