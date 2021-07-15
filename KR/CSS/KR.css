@@ -210,7 +210,6 @@ body {
     background-size: cover;
     position: relative;
     background-color: var(--NewKRTeal);
-    margin: 0;
     height: 500px;
 }
 
