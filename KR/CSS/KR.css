@@ -202,6 +202,12 @@ body {
     box-shadow: 2px 8px 16px 2px var(--bsb);
 }
 
+/* Scrolling words settings */
+.background-picture {
+    background-image: url(KR/IMG/MR12X8.jpg);
+    background-repeat: no-repeat;
+}
+
 /* Chef picture settings */
 * {
     box-sizing:border-box;
