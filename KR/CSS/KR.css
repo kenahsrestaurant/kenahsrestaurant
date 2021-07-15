@@ -209,7 +209,7 @@ body {
     background-position: center;
     background-size: cover;
     position: relative;
-    background-color: var(--NewKRTeal);
+    /*background-color: var(--NewKRTeal);*/
     height: 500px;
 }
 
