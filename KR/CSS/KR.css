@@ -211,6 +211,7 @@ body {
     margin-right: auto;
     height: auto;
     z-index: 1;
+    width: 100%;
 }
 
 /* Chef picture settings */
