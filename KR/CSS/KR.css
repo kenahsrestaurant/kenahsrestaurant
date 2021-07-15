@@ -204,7 +204,7 @@ body {
 
 /* Scrolling words settings */
 .background-picture {
-    background-image: url("/KR/IMG/MR12X8.jpg");
+    background-image: url("KR/IMG/MR12X8.jpg");
     background-repeat: no-repeat;
     display: block;
     margin-left: auto;
