@@ -207,7 +207,7 @@ body {
     background-image: url("../IMG/MR12X8.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: auto;
     position: relative;
     /*background-color: var(--NewKRTeal);*/
     height: 500px;
