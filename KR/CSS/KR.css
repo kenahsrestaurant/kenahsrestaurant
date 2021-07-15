@@ -211,6 +211,7 @@ body {
     position: relative;
     /*background-color: var(--NewKRTeal);*/
     height: 500px;
+    width: 100%;
 }
 
 /* Chef picture settings */
