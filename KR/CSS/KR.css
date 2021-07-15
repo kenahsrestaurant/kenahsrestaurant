@@ -215,6 +215,7 @@ body {
     background-position: center;
     background-size: auto;
     position: relative;
+    background-color: var(--NewKRTeal);
 }
 
 /* Chef picture settings */
