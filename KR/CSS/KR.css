@@ -207,10 +207,11 @@ body {
     background-image: url("MR12X8.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: center;
+    background-size: cover;
     position: relative;
     background-color: var(--NewKRTeal);
     margin: 0;
+    height: 500px;
 }
 
 /* Chef picture settings */
