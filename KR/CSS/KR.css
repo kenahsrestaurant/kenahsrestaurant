@@ -208,9 +208,10 @@ body {
     background-position: center;
     background-size: auto;
     /*background-color: var(--NewKRTeal);*/
-    height: 600px;
+    height: 550px;
     margin-left: auto;
     margin-right: auto;
+    background-repeat: no-repeat;
 }
 
 .sw-text {
