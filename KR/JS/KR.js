@@ -48,7 +48,7 @@ function openMenu(evt, menuName) {
   }
   document.getElementById("myLink").click();
 
-  /* KR Menu */
+  /* KR Menu 
   function openKRMenu(evt, menuName) {
     var i, x, tablinks;
     x = document.getElementsByClassName("kr-new-menu");
@@ -63,9 +63,9 @@ function openMenu(evt, menuName) {
     evt.currentTarget.firstElementChild.className += " kr-red";
   }
   document.getElementById("krLink").click();
+*/
 
-
-  /* Slide-Show text */
+  /* Slide-Show text
   var myIndex = 0;
     carousel();
 
@@ -80,8 +80,8 @@ function carousel() {
         myIndex = 1
     }
     
-    
     y[myIndex-1].style.display = "block";
-    setTimeout(carousel, 4500);
+    setTimeout(carousel, 3000);
     
 }
+*/
