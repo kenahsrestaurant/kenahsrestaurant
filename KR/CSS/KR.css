@@ -227,6 +227,7 @@ body {
     margin-right: auto;
     display: none;
     overflow: hidden;
+    position: relative;
 }
 
 /* Chef picture settings */
