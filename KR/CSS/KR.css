@@ -220,6 +220,7 @@ body {
     text-shadow: var(--Black) 1px 2px 2px;
     margin-left: auto;
     margin-right: auto;
+    width: 100%;
 }
 
 .mySlides {
