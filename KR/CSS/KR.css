@@ -205,7 +205,6 @@ body {
 /* Scrolling words settings */
 .background-picture {
     background-image: url("../IMG/MR12X8.jpg");
-    background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
     /*background-color: var(--NewKRTeal);*/
