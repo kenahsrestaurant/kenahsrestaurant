@@ -219,7 +219,6 @@ body {
     color: var(--White);
     text-shadow: var(--Black) 1px 2px 2px;
     z-index: 1;
-    display: none;
 }
 
 /* Chef picture settings */
