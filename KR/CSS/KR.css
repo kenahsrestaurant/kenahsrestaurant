@@ -223,6 +223,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     display: none;
+    overflow: hidden;
 }
 
 /* Chef picture settings */
