@@ -32,7 +32,7 @@ function fixedMenu(x) {
     document.getElementById("FM1").className = "sidenav animate_animated animate_fadeInLeft";
 }
 
-/* W3 Menu */
+/* W3 Menu
 function openMenu(evt, menuName) {
     var i, x, tablinks;
     x = document.getElementsByClassName("menu");
@@ -47,8 +47,9 @@ function openMenu(evt, menuName) {
     evt.currentTarget.firstElementChild.className += " w3-red";
   }
   document.getElementById("myLink").click();
+  */
 
-  /* KR Menu 
+  /* KR Menu */
   function openKRMenu(evt, menuName) {
     var i, x, tablinks;
     x = document.getElementsByClassName("kr-new-menu");
@@ -63,7 +64,7 @@ function openMenu(evt, menuName) {
     evt.currentTarget.firstElementChild.className += " kr-red";
   }
   document.getElementById("krLink").click();
-*/
+
 
   /* Slide-Show text
   var myIndex = 0;
