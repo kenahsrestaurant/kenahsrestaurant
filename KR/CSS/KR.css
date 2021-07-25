@@ -86,7 +86,11 @@ body {
     .fixed-navbar-icon {
        display: block;
        float: right;
+       position: absolute;
+       right: 0;
+       top: 0;
     }
+    
     .fixed-navbar-items {
         display: none;
     }
