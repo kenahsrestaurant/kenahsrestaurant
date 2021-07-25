@@ -86,6 +86,9 @@ body {
     .fixed-navbar i {
        display: block;
     }
+    .fixed-navbar-items {
+        display: none;
+    }
 }
 
 
