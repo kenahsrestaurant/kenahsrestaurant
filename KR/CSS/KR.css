@@ -52,7 +52,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    height: 95px;
+    height: 115px;
 }
 
 .fixed-navbar-items {
@@ -467,7 +467,7 @@ body {
         height: auto;
         text-align: center;
         display: block;
-        width: 30%;
+        width: 33%;
         float: none;
         padding: 10px 12px;
         top: 5;
