@@ -91,13 +91,13 @@ body {
        top: 0;
        text-align: center;
        color: var(--White);
-       padding: 14px 16px;
+       padding: 13px 15px;
        text-decoration: none;
        font-size: 17px;
        background-size: 0% 100%;
        box-shadow: var(--bsb);
        border: 2px solid var(--White);
-       border-radius: 6px;
+       border-radius: 7px;
     }
 
     .fixed-navbar-icon:hover {
@@ -111,7 +111,7 @@ body {
     background-repeat: no-repeat;
     transition: all .3s;
     border: 2px solid var(--NewKRYellow);
-    border-radius: 6px;
+    border-radius: 7px;
     }
 
     .fixed-navbar-items {
