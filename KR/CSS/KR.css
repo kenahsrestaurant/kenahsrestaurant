@@ -89,8 +89,8 @@ body {
        display: block;
        float: right;
        position: absolute;
-       right: 5;
-       top: 10;
+       right: 0;
+       top: 0;
        text-align: center;
        color: var(--White);
        padding: 10px 12px;
