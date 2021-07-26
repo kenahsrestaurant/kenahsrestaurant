@@ -450,7 +450,7 @@ body {
 }
 
 .logo-display {
-    border-radius: 6px;
+    border-radius: 7px;
     height: auto;
     float: left;
     width: 27%;
@@ -465,7 +465,7 @@ body {
         height: auto;
         text-align: center;
         display: block;
-        width: 48%;
+        width: 50%;
         float: none;
         padding: 10px 12px;
         top: 5;
