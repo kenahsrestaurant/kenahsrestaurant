@@ -469,6 +469,7 @@ body {
         float: none;
         padding: 10px 12px;
         top: 5;
+        border-radius: 7px;
     }
 
     .active {
