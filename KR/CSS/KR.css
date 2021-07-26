@@ -52,7 +52,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    height: 115px;
+    height: 125px;
 }
 
 .fixed-navbar-items {
@@ -99,7 +99,7 @@ body {
        background-size: 0% 100%;
        box-shadow: var(--bsb);
        border: 2px solid var(--White);
-       border-radius: 18px;
+       border-radius: 16px;
     }
 
     .fixed-navbar-icon:hover {
@@ -113,7 +113,7 @@ body {
     background-repeat: no-repeat;
     transition: all .3s;
     border: 2px solid var(--NewKRYellow);
-    border-radius: 15px;
+    border-radius: 16px;
     }
 
     .fixed-navbar-items {
