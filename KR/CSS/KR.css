@@ -99,7 +99,7 @@ body {
        background-size: 0% 100%;
        box-shadow: var(--bsb);
        border: 2px solid var(--White);
-       border-radius: 16px;
+       border-radius: 15px;
     }
 
     .fixed-navbar-icon:hover {
@@ -113,7 +113,7 @@ body {
     background-repeat: no-repeat;
     transition: all .3s;
     border: 2px solid var(--NewKRYellow);
-    border-radius: 16px;
+    border-radius: 15px;
     }
 
     .fixed-navbar-items {
