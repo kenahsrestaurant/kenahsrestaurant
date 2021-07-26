@@ -454,7 +454,9 @@ body {
     border-radius: 5px;
     height: auto;
     float: left;
-    width: 30%;
+    width: 25%;
+    vertical-align: middle;
+    padding: 10px 12px;
 }
 
 @media screen and (max-width: 600px) {
@@ -464,8 +466,10 @@ body {
         height: auto;
         text-align: center;
         display: block;
-        width: 55%;
+        width: 35%;
         float: none;
+        vertical-align: middle;
+        padding: 10px 12px;
     }
     .active {
         margin-left: auto;
