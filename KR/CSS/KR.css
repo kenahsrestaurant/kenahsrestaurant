@@ -455,7 +455,6 @@ body {
     height: auto;
     float: left;
     width: 27%;
-    vertical-align: middle;
     padding: 10px 12px;
     top: 10;
 }
@@ -469,7 +468,6 @@ body {
         display: block;
         width: 30%;
         float: none;
-        vertical-align: middle;
         padding: 10px 12px;
         top: 5;
     }
