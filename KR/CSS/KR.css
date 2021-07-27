@@ -56,7 +56,6 @@ body {
 
 .fixed-navbar-items {
     float: left;
-    display: inline;
     text-align: center;
     color: var(--White);
     padding: 14px 16px;
