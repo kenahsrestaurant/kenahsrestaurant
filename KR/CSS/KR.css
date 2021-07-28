@@ -452,13 +452,12 @@ body {
     border-radius: 7px;
     height: auto;
     float: left;
-    width: 27%;
+    width: 28%;
     padding: 10px 12px;
-    top: 10;
     position: relative;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 768px) {
     .logo-display {
         margin-left: auto;
         margin-right: auto;
@@ -468,7 +467,6 @@ body {
         width: 50%;
         float: none;
         padding: 10px 12px;
-        top: 5;
         border-radius: 7px;
         position: relative;
     }
