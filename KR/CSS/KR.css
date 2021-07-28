@@ -455,7 +455,7 @@ body {
     width: 27%;
     padding: 10px 12px;
     top: 10;
-    position: absolute;
+    position: relative;
 }
 
 @media screen and (max-width: 700px) {
@@ -470,7 +470,7 @@ body {
         padding: 10px 12px;
         top: 5;
         border-radius: 7px;
-        position: absolute;
+        position: relative;
     }
 
     .active {
