@@ -449,7 +449,9 @@ body {
 }
 
 .logo-display-box {
-    left: 5;
+    left: 15;
+    width: 25%;
+    height: auto;
 
 }
 
