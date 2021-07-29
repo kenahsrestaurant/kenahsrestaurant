@@ -448,13 +448,17 @@ body {
     }
 }
 
+.logo-display-box {
+    left: 5;
+
+}
+
 .logo-display {
     border-radius: 7px;
     height: auto;
     float: left;
     width: 28%;
     position: relative;
-    padding: 5px;
 }
 
 @media screen and (max-width: 768px) {
@@ -468,7 +472,6 @@ body {
         float: none;
         border-radius: 7px;
         position: relative;
-        padding: 5px;
     }
 
     .active {
