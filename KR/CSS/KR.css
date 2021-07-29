@@ -76,6 +76,7 @@ body {
     position: relative;
     background-repeat: no-repeat;
     transition: all .3s;
+    font-size: 19px;
 }
 
 .fixed-navbar-icon {
