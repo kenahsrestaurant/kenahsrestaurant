@@ -192,9 +192,15 @@ html {
     }
 }
 
+@media screen and (min-width: 500px) {
+    .overlay {
+        margin-top: 175px;
+    }
+}
+
 @media screen and (min-width: 550px) {
     .overlay {
-        margin-top: 150px;
+        margin-top: 215px;
     }
 }
 
