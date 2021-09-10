@@ -192,6 +192,11 @@ html {
     }
 }
 
+@media screen and (min-width: 550px) {
+    .overlay {
+        margin-top: 150px;
+    }
+}
 
 
 /*.container-fixed-menu {
