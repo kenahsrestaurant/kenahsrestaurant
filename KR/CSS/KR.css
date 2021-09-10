@@ -44,6 +44,10 @@ body {
     display:none;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* Fixed Menu Settings */
 .fixed-navbar {
     overflow:hidden;
@@ -76,7 +80,7 @@ body {
     position: relative;
     background-repeat: no-repeat;
     transition: all .3s;
-    font-size: 19px;
+    font-size: 20px;
 }
 
 .fixed-navbar-icon {
@@ -118,6 +122,58 @@ body {
     .fixed-navbar-items {
         display: none;
     }
+}
+
+/* Slide menu settings */
+.overlay {
+    height: 0%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    background-color: var(--NewKRBlue);
+    overflow-y: hidden;
+}
+
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    text-align: center;
+    color: var(--White);
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-size: 0% 100%;
+    box-shadow: var(--bsb);
+    display: block;
+}
+
+.overlay a:hover {
+    background-color: none;
+    color: var(--NewKRYellow);
+    background-image: linear-gradient(transparent calc(100% - 2px), var(--NewKRYellow) 1px);
+    text-decoration: none;
+    background-size: 100% 100%;
+    background-position: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    transition: all .3s;
+    font-size: 20px;
+}
+
+#myNav {
+    height: 0%;
+}
+
+#myNav.open {
+    height: 100%;
 }
 
 

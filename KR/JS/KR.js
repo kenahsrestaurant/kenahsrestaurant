@@ -29,7 +29,10 @@ function menuAppearance() {
 /* Fixed Menu Settings */
 function fixedMenu(x) {
     x.classList.toggle("change");
-    document.getElementById("FM1").className = "sidenav animate_animated animate_fadeInLeft";
+}
+
+function openSlideMenu() {
+    document.getElementById('myNav').classList.toggle("open");
 }
 
 /* W3 Menu
