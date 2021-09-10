@@ -181,6 +181,12 @@ html {
     height: 90%;
 }
 
+@media screen and (min-width: 400px) {
+    .overlay {
+        margin-top: 100px;
+    }
+}
+
 @media screen and (min-width: 450px) {
     .overlay {
         margin-top: 130px;
