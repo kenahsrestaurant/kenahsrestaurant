@@ -132,7 +132,7 @@ html {
     z-index: 1;
     background-color: var(--NewKRBlue);
     overflow-y: hidden;
-    margin-top: 90px;
+    margin-top: 80px;
     transition: 0.4s;
 }
 
