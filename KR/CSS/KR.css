@@ -127,12 +127,12 @@ html {
 /* Slide menu settings */
 .overlay {
     height: 0%;
-    width: 100%;
+    width: 90%;
     position: fixed;
     z-index: 1;
     background-color: var(--NewKRBlue);
     overflow-y: hidden;
-    margin-top: 80px;
+    margin-top: 70px;
     transition: 0.4s;
 }
 
@@ -175,7 +175,7 @@ html {
 }
 
 #myNav.open {
-    height: 100%;
+    height: 90%;
 }
 
 @media screen and (min-width: 450px) {
