@@ -220,6 +220,10 @@ html {
     text-shadow: var(--Black) 2px 2px 2px;
   }
 
+  .container-img.a {
+      text-decoration: none;
+  }
+
 .centered-text {
     position: absolute;
     top: 50%;
