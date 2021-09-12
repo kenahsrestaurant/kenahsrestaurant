@@ -212,14 +212,19 @@ html {
 }
 
 /* Centered Text for Images */
+.container-img {
+    position: relative;
+    text-align: center;
+    font-size: 60px;
+    color: var(--White);
+    text-shadow: var(--Black) 2px 2px 2px;
+  }
+
 .centered-text {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 60px;
-    color: var(--White);
-    text-shadow: var(--Black) 2px 2px 2px;
 }
 
 
