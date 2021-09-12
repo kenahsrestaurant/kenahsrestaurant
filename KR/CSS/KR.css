@@ -224,7 +224,7 @@ a {
     text-shadow: var(--Black) 2px 2px 2px;
   }
 
-  .container-img.a {
+  .container-img a {
       text-decoration: none;
       font-size: 60px;
       color: var(--White);
@@ -238,7 +238,7 @@ a {
     transform: translate(-50%, -50%);
 }
 
-.centered-text.a {
+.centered-text a {
     text-decoration: none;
     font-size: 60px;
     color: var(--White);
