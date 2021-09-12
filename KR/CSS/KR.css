@@ -211,6 +211,17 @@ html {
     }
 }
 
+/* Centered Text for Images */
+.centered-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    color: var(--White);
+    text-shadow: var(--Black) 2px 2px 2px;
+}
+
 
 /*.container-fixed-menu {
     display:inline-block;
