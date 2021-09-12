@@ -226,6 +226,9 @@ a {
 
   .container-img.a {
       text-decoration: none;
+      font-size: 60px;
+      color: var(--White);
+      text-shadow: var(--Black) 2px 2px 2px;
   }
 
 .centered-text {
@@ -237,6 +240,9 @@ a {
 
 .centered-text.a {
     text-decoration: none;
+    font-size: 60px;
+    color: var(--White);
+    text-shadow: var(--Black) 2px 2px 2px;
 }
 
 
