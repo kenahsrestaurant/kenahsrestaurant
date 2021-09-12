@@ -227,6 +227,10 @@ html {
     transform: translate(-50%, -50%);
 }
 
+.centered-text.a {
+    text-decoration: none;
+}
+
 
 /*.container-fixed-menu {
     display:inline-block;
