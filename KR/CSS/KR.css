@@ -398,7 +398,10 @@ html {
 .mySlides {
     display:none;
     overflow: hidden;
-    z-index: 0;
+}
+
+.mySlides.p {
+    z-index:-1;
 }
 
 .w3-animate-right {
