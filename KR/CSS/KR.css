@@ -204,6 +204,12 @@ html {
     }
 }
 
+@media screen and (min-width: 500px) {
+    .overlay {
+        margin-top: 135px;
+    }
+}
+
 
 /*.container-fixed-menu {
     display:inline-block;
@@ -392,6 +398,7 @@ html {
 .mySlides {
     display:none;
     overflow: hidden;
+    z-index: 0;
 }
 
 .w3-animate-right {
